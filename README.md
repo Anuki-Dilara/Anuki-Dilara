@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anuki Dilara</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <p align=”center”>
-<img width=”200" height=”200" src=”https://pixcap.com/design/044aa498-8842-4d27-9516-187445135428" alt=”my banner”>
+<img src="https://pixcap.com/design/440cd40b-af56-4242-9320-20773cc57375">
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuki-dilara&label=Profile%20views&color=0e75b6&style=flat" alt="anuki-dilara" /> </p>
 
