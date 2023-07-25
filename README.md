@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://github.com/Anuki-Dilara/Anuki-Dilara/blob/main/Internal%20Work%20Communication.gif))]
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://github.com/Anuki-Dilara/Anuki-Dilara/blob/main/Internal%20Work%20Communication.gif))](https://github.com/Anuki-Dilara)
 <h1 align="center">Hi 👋, I'm Anuki Dilara</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <p align=”center”>
