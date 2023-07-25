@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Anuki Dilara</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anuki-dilara&label=Profile%20views&color=0e75b6&style=flat" alt="anuki-dilara" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anuki-dilara" alt="anuki-dilara" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anuki-dilara&label=Profile%20views&color=0e75b6&style=flat" alt="anuki-dilara" /> </p>
 
 - 🌱 I’m currently learning **HTML,CSS,Java Script**
 
 - 📫 How to reach me **anukidilara002@gmail.com**
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,6 +21,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuki-dilara&show_icons=true&locale=en" alt="anuki-dilara" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuki-dilara&" alt="anuki-dilara" /></p>
+
 
 <p align="center">
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
