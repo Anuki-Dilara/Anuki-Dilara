@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer</h3>
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuki-dilara&label=Profile%20views&color=0e75b6&style=flat" alt="anuki-dilara" /> </p>
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" width="450" height="250">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" width="420" height="240">
 - 🌱 I’m currently learning **HTML,CSS,Java Script**
 
 - 📫 How to reach me **anukidilara002@gmail.com**
