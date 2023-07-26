@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anuki Dilara</h1>
 <h3 align="center">A passionate frontend developer</h3>
- 
+ <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="right">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuki-dilara&label=Profile%20views&color=0e75b6&style=flat" alt="anuki-dilara" /> </p>
 
 - 🌱 I’m currently learning **HTML,CSS,Java Script**
@@ -24,5 +24,5 @@
 
 
 <p align="center">
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+
 </p>
