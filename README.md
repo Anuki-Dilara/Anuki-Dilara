@@ -3,7 +3,7 @@
 <p align="center"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="420" height="240"></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuki-dilara&label=Profile%20views&color=0e75b6&style=flat" alt="anuki-dilara" /> </p>
 
-- 🌱 I’m currently learning **HTML,CSS,Java Script**
+- 🌱 I’m currently learning **Web Development**
 
 - 📫 How to reach me **anukidilara002@gmail.com**
 
