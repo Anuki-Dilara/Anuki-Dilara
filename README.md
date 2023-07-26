@@ -1,8 +1,6 @@
-<p align="center"> <img src="https://github.com/Anuki-Dilara/Anuki-Dilara/blob/main/Internal%20Work%20Communication.gif" alt="anuki-dilara"  width="100%" height="400"/> </p>
 <h1 align="center">Hi 👋, I'm Anuki Dilara</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<p align=”center”>
-
+<img src="https://github.com/Anuki-Dilara/Anuki-Dilara/blob/main/Internal%20Work%20Communication.gif" alt="anuki-dilara" align="right" width="400" height="200"/> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuki-dilara&label=Profile%20views&color=0e75b6&style=flat" alt="anuki-dilara" /> </p>
 
 - 🌱 I’m currently learning **HTML,CSS,Java Script**
