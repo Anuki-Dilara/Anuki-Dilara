@@ -6,7 +6,9 @@
 - 🌱 I’m currently learning **HTML,CSS,Java Script**
 
 - 📫 How to reach me **anukidilara002@gmail.com**
-
+<p align="center">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anuki-dilara-2a2b2a228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anuki-dilara-2a2b2a228" height="30" width="40" /></a>
@@ -23,6 +25,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuki-dilara&" alt="anuki-dilara" /></p>
 
 
-<p align="center">
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
-</p>
+
