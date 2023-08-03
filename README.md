@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://media.giphy.com/media/6MYnYnaiq9SaGt8AWD/giphy.gif" width="100" height="100"><br>
+<h1 align="center"><img src="https://media.giphy.com/media/6MYnYnaiq9SaGt8AWD/giphy.gif" width="60" height="60"><br>
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">  I'm Anuki Dilara</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <p align="center"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="420" height="240"></p>
