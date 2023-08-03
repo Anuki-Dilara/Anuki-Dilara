@@ -1,5 +1,5 @@
-<h1 align="center">Hi,
-<img src="https://media.giphy.com/media/Z96Ax1zh5aSsHczGve/giphy.gif" width="100" height="100"> I'm Anuki Dilara</h1>
+<h1 align="center"><img src="https://media.giphy.com/media/6MYnYnaiq9SaGt8AWD/giphy.gif" width="100" height="100"><br>
+ I'm Anuki Dilara</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <p align="center"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="420" height="240"></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuki-dilara&label=Profile%20views&color=0e75b6&style=flat" alt="anuki-dilara" /> </p>
