@@ -1,4 +1,4 @@
-<h1 align="center">Hi<div style = "position:relative; left:80px; top:2px; background-color:yellow;">
+<h1 align="center">Hi,<div style = "position:relative; left:80px; top:2px; background-color:yellow;">
 <img src="https://media.giphy.com/media/Z96Ax1zh5aSsHczGve/giphy.gif" width="100" height="100"></div> I'm Anuki Dilara</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <p align="center"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="420" height="240"></p>
