@@ -1,11 +1,10 @@
-<h1 align="center">Hi 👋, I'm Anuki Dilara</h1>
+<p align="center"><img src = "https://media.giphy.com/media/6MYnYnaiq9SaGt8AWD/giphy.gif" width="60" height="60"/></p>
+<h1 align="center">👋, I'm Anuki Dilara</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <p align="center"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="420" height="240"></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuki-dilara&label=Profile%20views&color=0e75b6&style=flat" alt="anuki-dilara" /> </p>
 
 - 🌱 I’m currently learning **Internet Technologies**
-
-- 👨‍💻 My Portfolio [https://anuki-dilara.github.io/My-portfolio/](https://anuki-dilara.github.io/My-portfolio/)
 
 - 📫 How to reach me **anukidilara002@gmail.com**
 
